@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "1LXF67te/7nS/RM55wuJYPemRpETweXloxzBX/8zc20=",
+  "Source": "HotelProject.WebApi",
+  "BasePath": "_content/HotelProject.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\oktay\\OneDrive\\Masaüstü\\Dev\\HotelProject\\deneme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HotelProject.WebApi.styles.css",
+      "SourceId": "HotelProject.WebApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\oktay\\OneDrive\\Masaüstü\\Dev\\HotelProject\\deneme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/HotelProject.WebApi",
+      "RelativePath": "HotelProject.WebApi.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oktay\\OneDrive\\Masaüstü\\Dev\\HotelProject\\deneme\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HotelProject.WebApi.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\oktay\\OneDrive\\Masaüstü\\Dev\\HotelProject\\deneme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelProject.WebApi.bundle.scp.css",
+      "SourceId": "HotelProject.WebApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\oktay\\OneDrive\\Masaüstü\\Dev\\HotelProject\\deneme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/HotelProject.WebApi",
+      "RelativePath": "HotelProject.WebApi.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oktay\\OneDrive\\Masaüstü\\Dev\\HotelProject\\deneme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelProject.WebApi.bundle.scp.css"
+    }
+  ]
+}

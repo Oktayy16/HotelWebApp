@@ -91,3 +91,8 @@ C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.Web
 C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.WebApiConsume\obj\Debug\net6.0\HotelProject.WebApi.pdb
 C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.WebApiConsume\obj\Debug\net6.0\HotelProject.WebApi.genruntimeconfig.cache
 C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.WebApiConsume\obj\Debug\net6.0\ref\HotelProject.WebApi.dll
+C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.WebApiConsume\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.WebApiConsume\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.WebApiConsume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.WebApiConsume\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oktay\OneDrive\Masaüstü\Dev\HotelProject\API Consume\HotelProject.WebApiConsume\obj\Debug\net6.0\HotelProject.WebApi.MvcApplicationPartsAssemblyInfo.cs

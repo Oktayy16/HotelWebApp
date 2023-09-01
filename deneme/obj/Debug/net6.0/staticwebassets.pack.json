@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oktay\\OneDrive\\Masaüstü\\Dev\\HotelProject\\deneme\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelProject.WebApi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelProject.WebApi.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HotelProject.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HotelProject.WebApi.props",
+      "PackagePath": "build\\HotelProject.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelProject.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\HotelProject.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HotelProject.WebApi.props",
+      "PackagePath": "buildTransitive\\HotelProject.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
