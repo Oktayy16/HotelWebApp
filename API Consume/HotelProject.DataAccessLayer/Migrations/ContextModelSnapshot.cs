@@ -33,7 +33,7 @@ namespace HotelProject.DataAccessLayer.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("BenCount")
+                    b.Property<string>("BedCount")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

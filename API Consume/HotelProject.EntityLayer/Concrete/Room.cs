@@ -13,7 +13,7 @@ namespace HotelProject.EntityLayer.Concrete
         public string RoomCoverImage { get; set; } // resim
         public int Price { get; set; }
         public string Title { get; set; }
-        public string BenCount { get; set; }
+        public string BedCount { get; set; }
         public string BathCount { get; set; }
         public string Wife { get; set; }
         public string Description { get; set; }

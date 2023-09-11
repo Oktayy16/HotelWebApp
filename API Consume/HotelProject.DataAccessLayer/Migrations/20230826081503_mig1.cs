@@ -20,7 +20,7 @@ namespace HotelProject.DataAccessLayer.Migrations
                     RoomCoverImage = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Price = table.Column<int>(type: "int", nullable: false),
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    BenCount = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    BedCount = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     BathCount = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Wife = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false)
