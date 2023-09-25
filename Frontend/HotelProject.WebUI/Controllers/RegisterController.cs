@@ -23,7 +23,7 @@ namespace HotelProject.WebUI.Controllers
         [HttpPost]
         public async Task<IActionResult> Index(CreateNewUserDto createNewUserDto)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid) // tuşa basıldığında gerekli model uygun değilse direk dönecek(böylece gerekli verisiz ilerlese patlaması engellenir)
             {
                 return View();
             }
